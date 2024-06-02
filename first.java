@@ -6,6 +6,7 @@ public class first{
 
         for (int i = 0; i < 5; i++) {
             System.out.println("Hello Folks!");
+            System.out.println("Yo");
         }
     }
 }
